@@ -9,3 +9,6 @@ Sample GAS script for inspecting Trello cards
 
 You can use this script under MIT Lisence.
 
+# Referrence
+
+- https://www.northtorch.co.jp/archives/423
